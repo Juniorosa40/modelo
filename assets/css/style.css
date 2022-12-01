@@ -76,3 +76,7 @@ form button {
 form button:hover {
   background: rgb(243, 141, 9)
 }
+
+#setResultado {
+  background: rgb(237, 223, 95);
+}
