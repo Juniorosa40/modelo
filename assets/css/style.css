@@ -80,3 +80,13 @@ form button:hover {
 #setResultado {
   background: rgb(237, 223, 95);
 }
+
+.paragrafo-resultado, .bad {
+  background: rgb(109, 255, 182);
+  padding: 10px 20px;
+}
+
+.bad {
+  background: rgb(255, 150, 150);
+}
+
